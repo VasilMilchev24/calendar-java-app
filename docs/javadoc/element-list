@@ -1,0 +1,7 @@
+bg.tu_varna.sit
+bg.tu_varna.sit.commands
+bg.tu_varna.sit.exceptions
+bg.tu_varna.sit.models
+bg.tu_varna.sit.parser
+bg.tu_varna.sit.repository
+bg.tu_varna.sit.services

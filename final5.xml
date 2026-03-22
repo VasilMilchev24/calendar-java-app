@@ -1,0 +1,13 @@
+<calendar>
+  <holidays>
+  </holidays>
+  <events>
+    <event>
+      <date>2026-04-15</date>
+      <startTime>10:00</startTime>
+      <endTime>11:00</endTime>
+      <name>Друга среща</name>
+      <note>Бележка</note>
+    </event>
+  </events>
+</calendar>

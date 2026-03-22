@@ -1,0 +1,27 @@
+<calendar>
+  <holidays>
+  </holidays>
+  <events>
+    <event>
+      <date>2026-04-02</date>
+      <startTime>15:00</startTime>
+      <endTime>16:00</endTime>
+      <name>Подготовка</name>
+      <note>Основен календар</note>
+    </event>
+    <event>
+      <date>2026-04-02</date>
+      <startTime>16:00</startTime>
+      <endTime>17:00</endTime>
+      <name>Ново събитие</name>
+      <note>Входящ календар</note>
+    </event>
+    <event>
+      <date>2026-04-02</date>
+      <startTime>10:30</startTime>
+      <endTime>11:30</endTime>
+      <name>Конфликтна среща</name>
+      <note>Входящ календар</note>
+    </event>
+  </events>
+</calendar>

@@ -1,0 +1,22 @@
+<calendar>
+  <holidays>
+    <holiday>2026-05-10</holiday>
+    <holiday>2026-11-11</holiday>
+  </holidays>
+  <events>
+    <event>
+      <date>2026-11-12</date>
+      <startTime>10:00</startTime>
+      <endTime>11:00</endTime>
+      <name>Event</name>
+      <note>Notes</note>
+    </event>
+    <event>
+      <date>2026-11-12</date>
+      <startTime>13:00</startTime>
+      <endTime>14:00</endTime>
+      <name>Ka</name>
+      <note>Kk::</note>
+    </event>
+  </events>
+</calendar>

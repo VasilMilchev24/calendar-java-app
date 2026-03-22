@@ -1,0 +1,13 @@
+<calendar>
+  <holidays>
+  </holidays>
+  <events>
+    <event>
+      <date>2026-04-08</date>
+      <startTime>10:00</startTime>
+      <endTime>11:00</endTime>
+      <name>Лекция</name>
+      <note>ОПП</note>
+    </event>
+  </events>
+</calendar>
